@@ -1,0 +1,47 @@
+<style>
+  body 
+  {
+    background-color:rgb(247,245,249);
+    color: white;
+}
+       #nav-wrapper {
+     background-color: black;
+   
+    }
+    
+    #dropdown1 {
+     background-color: white;
+    color: black;
+    }
+    
+    #menu-button {
+     background-color: black;
+   
+    }
+    
+    #nav-search {
+     background-color: black;
+   color: white;
+    overflow: hidden;
+    }
+    
+    #nav-mobile  {
+     background-color: black;
+   
+    }
+    
+    nav  {
+     background-color: black;
+   
+    }
+   
+   #carousel { margin: 0 auto;
+        border: 10px solid transparent;
+        padding: 0px;
+        z-index: 100;
+        overflow: hidden;
+        box-sizing: border-box;
+      }
+      
+    
+</style>
